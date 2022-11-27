@@ -1,2 +1,9 @@
 fastapi
 uvicorn[standard]
+git+https://github.com/huggingface/diffusers.git
+transformers
+accelerate
+scipy
+torch
+torchvision
+numpy
